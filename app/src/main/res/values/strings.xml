@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EdgeDetectionApp</string>
+    <string name="toggle_mode">Toggle Mode</string>
+    <string name="fps_label">FPS: %1$d</string>
+</resources>
