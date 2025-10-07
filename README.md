@@ -89,10 +89,6 @@ The web viewer connects to the Android app via WebSocket to display the processe
 
 The app is optimized for real-time performance. On modern devices, it can achieve 30+ FPS for 720p video with edge detection enabled.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - OpenCV for the computer vision library
